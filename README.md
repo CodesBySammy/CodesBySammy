@@ -55,17 +55,17 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Data Str
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameermahindru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameermahindru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameermahindru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🎯 Featured Projects
 
-### 🏢 [Attendance Portal](https://github.com/sameermahindru/attendance-portal)
+### 🏢 [Attendance Portal](https://github.com/CodesBySammy/attendance-portal)
 **Tech Stack:** Node.js, Express.js, MongoDB, JWT, XLSX  
 **Impact:** Used by 200+ users  
 
@@ -74,7 +74,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Data Str
 - Built automated Excel export pipeline, eliminating manual data tracking
 - **Key Features:** Real-time status updates, secure authentication, automated reporting
 
-### 📋 [Task Management System](https://github.com/sameermahindru/task-management)
+### 📋 [Task Management System](https://github.com/CodesBySammy/task-management)
 **Tech Stack:** Node.js, Express.js, MongoDB, JWT, Cloudinary  
 
 - Engineered a responsive task management platform supporting team collaboration
@@ -82,7 +82,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Data Str
 - Integrated Cloudinary for efficient file management and storage
 - **Key Features:** Role-based workflows, file uploads, team collaboration
 
-### 🏃‍♂️ [Activity Tracker](https://github.com/sameermahindru/activity-tracker) *(In Development)*
+### 🏃‍♂️ [Activity Tracker](https://github.com/CodesBySammy/activity-tracker) *(In Development)*
 **Tech Stack:** Node.js, Express.js, MongoDB, WebSockets, JWT  
 
 - Building a fitness tracking platform with social features for workout sharing
@@ -111,7 +111,7 @@ I'm actively seeking **Software Development Engineer** opportunities where I can
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameermahindru&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Let's Connect!
