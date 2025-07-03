@@ -2,7 +2,7 @@
   
 # 🌟 Welcome to Sameer's Digital Universe 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sameer%20Mahindru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Backend%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sameer%20Mahindru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Crafting+Scalable+APIs;☁️+Exploring+Cloud+Technologies;🎯+Solving+Complex+Problems" alt="Typing SVG" />
