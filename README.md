@@ -87,21 +87,13 @@ const sameer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Sameer's Top Languages"/>
+</p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Sameer's Top Languages" />
-
-</div>
-
----
 
 
 
