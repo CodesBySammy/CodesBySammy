@@ -87,24 +87,25 @@ const sameer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> GitHub Analytics
+## 📊 GitHub Analytics
 
-### 🏆 Trophies
+### 🏆 Achievements & Activity Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodesBySammy&theme=radical&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodesBySammy&theme=radical&title=Commits,Repositories,PullRequest,Followers,Experience&margin-w=10&margin-h=10&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📊 Language & Commit Stats
+### 💻 Language & Contribution Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Sameer's Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Sameer%20Mahindru's%20GitHub%20Stats" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
+
 
 
 
