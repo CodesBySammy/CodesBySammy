@@ -89,16 +89,38 @@ const sameer: Developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=github-dark-blue&hide_border=true" />
+  
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  </picture>
+  
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=dark&hide_border=true&cache_seconds=86400">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  </picture>
+  
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+  
+  <!-- Most Used Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most Used Languages" />
+  </picture>
+  
 </div>
 
+### 📈 Quick Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodesBySammy&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=CodesBySammy&label=Profile%20Views&color=58a6ff&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/CodesBySammy?label=Followers&style=flat-square&color=58a6ff)
+  ![GitHub stars](https://img.shields.io/github/stars/CodesBySammy?label=Stars&style=flat-square&color=58a6ff)
+  
 </div>
 
 ---
@@ -195,14 +217,6 @@ Mozilla Firefox Club<br>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" />
 </div>
 
 ---
