@@ -166,9 +166,11 @@ const sameer = {
 
 **🚀 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design
 
+<div align="center">
 <a href="https://github.com/CodesBySammy/Activity_Tracker">
 <img src="https://img.shields.io/badge/View%20Repository-In%20Development-purple?style=for-the-badge&logo=github" />
 </a>
+</div>
 
 </div>
 
