@@ -30,3 +30,14 @@ Frontend:        HTML5, CSS3, AngularJS
 Cloud/DevOps:    AWS, GitHub Actions, Cloudinary
 Databases:       MySQL, MongoDB, DynamoDB
 Tools & Others:  Postman, JWT, XLSX, Git, GitHub
+
+
+🚀 My Projects
+📌 Attendance Management System
+Node.js | Express | MongoDB | JWT | XLSX | AngularJS
+✅ Secure attendance portal for 200+ users with role-based login, real-time status, and automated Excel reports.
+🔗 Frontend • Backend
+
+
+
+
