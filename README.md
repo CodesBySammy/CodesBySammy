@@ -123,10 +123,10 @@ const sameer = {
 - JWT authentication system
 
 <div align="center">
-<a href="https://github.com/CodesBySammy/attendance-portal-frontend">
+<a href="https://github.com/CodesBySammy/attendance-management-fe">
 <img src="https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/CodesBySammy/attendance-portal-backend">
+<a href="https://github.com/CodesBySammy/attendance-management-be">
 <img src="https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github" />
 </a>
 </div>
@@ -148,10 +148,10 @@ const sameer = {
 - Role-based workflows
 
 <div align="center">
-<a href="https://github.com/CodesBySammy/task-management-frontend">
+<a href="https://github.com/CodesBySammy/task_management_fe">
 <img src="https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/CodesBySammy/task-management-backend">
+<a href="https://github.com/CodesBySammy/task_management_be">
 <img src="https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github" />
 </a>
 </div>
@@ -166,7 +166,7 @@ const sameer = {
 
 **🚀 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design
 
-<a href="https://github.com/CodesBySammy/activity-tracker">
+<a href="https://github.com/CodesBySammy/Activity_Tracker">
 <img src="https://img.shields.io/badge/View%20Repository-Coming%20Soon-purple?style=for-the-badge&logo=github" />
 </a>
 
@@ -247,7 +247,7 @@ const sameer = {
 ## 📊 Contribution Heatmap
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&custom_title=🔥%20Contribution%20Activity&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&custom_title🔥%20Contribution%20Activity&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
@@ -256,7 +256,7 @@ const sameer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sameermahindru">
+<a href="www.linkedin.com/in/sameer-mahindru-39ba91248">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sameermahindru69@gmail.com">
