@@ -90,21 +90,27 @@ const sameer = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> GitHub Analytics
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Sameer's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=radical&hide_border=true" alt="Sameer's GitHub Streak" />
+
+</div>
+
+<div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Sameer's Top Languages" />
 
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=redical&bg_color=0d1117&color=f85a40&line=f85a40&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=radical&bg_color=0d1117&color=f85a40&line=f85a40&point=ffffff&area=true&hide_border=true" alt="Sameer's Contribution Graph" />
+
 </div>
 
 ---
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> Featured Projects
 
