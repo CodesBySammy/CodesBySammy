@@ -2,7 +2,7 @@
   
 # 🌟 Welcome to Sameer's Digital Universe 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sameer%20Mahindru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sameer%20Mahindru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Backend%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Crafting+Scalable+APIs;☁️+Exploring+Cloud+Technologies;🎯+Solving+Complex+Problems" alt="Typing SVG" />
@@ -65,17 +65,17 @@ const sameer = {
 ### 🖥️ **Programming Languages**
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
 
-### 🎨 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark" />
+### 🎨 **Frontend Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,angular&theme=dark" />
 
-### ⚙️ **Backend Wizardry**
+### ⚙️ **Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 ### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark" />
 
-### 🔧 **Tools & More**
-<img src="https://skillicons.dev/icons?i=postman,vscode,linux,figma&theme=dark" />
+### 🔧 **Tools & Testing**
+<img src="https://skillicons.dev/icons?i=postman,vscode&theme=dark" />
 
 </div>
 
@@ -89,7 +89,7 @@ const sameer = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=🎯%20Language%20Arsenal" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodesBySammy&theme=radical&hide_border=true&custom_title=⏱️%20Coding%20Time" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodesBySammy&repo=attendance-management-be&theme=radical&hide_border=true" />
 
 </div>
 
@@ -114,12 +114,12 @@ const sameer = {
 </div>
 
 **🎯 Impact:** 200+ Active Users  
-**🔧 Tech:** Node.js | Express.js | MongoDB | JWT
+**🔧 Tech:** Node.js | Express.js | MongoDB | JWT | XLSX
 
 ✨ **Highlights:**
 - Secure role-based access control
 - Real-time attendance tracking
-- Automated Excel reporting
+- Automated Excel reporting pipeline
 - JWT authentication system
 
 <div align="center">
@@ -139,7 +139,7 @@ const sameer = {
 </div>
 
 **🎯 Focus:** Team Collaboration  
-**🔧 Tech:** Node.js | Express.js | MongoDB | Cloudinary
+**🔧 Tech:** Node.js | Express.js | MongoDB | JWT | Cloudinary
 
 ✨ **Highlights:**
 - Responsive design architecture
@@ -167,7 +167,7 @@ const sameer = {
 **🚀 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design
 
 <a href="https://github.com/CodesBySammy/Activity_Tracker">
-<img src="https://img.shields.io/badge/View%20Repository-Coming%20Soon-purple?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repository-In%20Development-purple?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -247,7 +247,7 @@ const sameer = {
 ## 📊 Contribution Heatmap
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&custom_title🔥%20Contribution%20Activity&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&custom_title=🔥%20Contribution%20Activity&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
@@ -256,7 +256,7 @@ const sameer = {
 
 <div align="center">
 
-<a href="www.linkedin.com/in/sameer-mahindru-39ba91248">
+<a href="https://www.linkedin.com/in/sameer-mahindru-39ba91248">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sameermahindru69@gmail.com">
