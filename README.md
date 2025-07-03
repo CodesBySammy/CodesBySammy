@@ -1,135 +1,285 @@
-# Hi there! 👋 I'm Sameer Mahindru
+<div align="center">
+  
+# 🌟 Welcome to Sameer's Digital Universe 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sameer%20Mahindru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Backend%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=50" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Systems+Engineer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Crafting+Scalable+APIs;☁️+Exploring+Cloud+Technologies;🎯+Solving+Complex+Problems" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **Backend Systems**. Currently pursuing B.Tech in Information Technology at VIT Vellore with a CGPA of 8.89, I'm actively transitioning into **Software Development Engineer** roles with a focus on building scalable APIs and robust system architectures.
+## 🎭 Who Am I?
 
-- 🔭 I'm currently working on an **Activity Tracker** with real-time features using WebSockets
-- 🌱 I'm learning advanced **System Design** and **Cloud Architecture** patterns
-- 👯 I'm looking to collaborate on **Open Source Projects** and **Backend Development**
-- 💬 Ask me about **Node.js**, **MongoDB**, **AWS**, and **API Development**
-- 📫 How to reach me: **sameermahindru69@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and building solutions that impact real users!
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Tech Stack
+```javascript
+const sameer = {
+    name: "Sameer Mahindru",
+    role: "Full-Stack Developer",
+    location: "Vellore, India 🇮🇳",
+    education: "B.Tech IT @ VIT (CGPA: 8.89)",
+    passion: "Backend Development & System Design",
+    currentFocus: "SDE Transition & Cloud Architecture",
+    
+    dailyRoutine: {
+        code: "Always",
+        learn: "Continuously",
+        solve: "Problems",
+        build: "Amazing Things"
+    },
+    
+    motto: "Code with Purpose, Build with Passion! 🔥"
+};
+```
+
+</td>
+<td width="50%">
+
+### 🎯 Current Status
+- 🔭 Building **Activity Tracker** with real-time features
+- 🌱 Deep diving into **System Design** patterns
+- 👨‍💻 Open to **SDE opportunities**
+- 🤝 Looking for **collaboration** on exciting projects
+- 💡 Always exploring **new technologies**
+
+### 📊 Quick Stats
+- 🎓 **8.89 CGPA** at VIT Vellore
+- 👥 **200+ users** served by my applications
+- ☁️ **AWS Certified** Cloud Practitioner
+- 🏆 **Events Head** at Mozilla Firefox Club
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Arsenal of Technologies
 
 <div align="center">
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🖥️ **Programming Languages**
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
 
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+### 🎨 **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark" />
 
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### ⚙️ **Backend Wizardry**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker&theme=dark" />
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Tools & Technologies
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
+### 🔧 **Tools & More**
+<img src="https://skillicons.dev/icons?i=postman,vscode,linux,figma&theme=dark" />
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesBySammy&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=🎯%20Language%20Arsenal" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodesBySammy&theme=radical&hide_border=true&custom_title=⏱️%20Coding%20Time" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodesBySammy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 </div>
 
-## 🎯 Featured Projects
+---
 
-### 🏢 [Attendance Portal](https://github.com/CodesBySammy/attendance-portal)
-**Tech Stack:** Node.js, Express.js, MongoDB, JWT, XLSX  
-**Impact:** Used by 200+ users  
-
-- Developed a comprehensive attendance management system with secure role-based access control
-- Implemented JWT authentication for scalable session management
-- Built automated Excel export pipeline, eliminating manual data tracking
-- **Key Features:** Real-time status updates, secure authentication, automated reporting
-
-### 📋 [Task Management System](https://github.com/CodesBySammy/task-management)
-**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Cloudinary  
-
-- Engineered a responsive task management platform supporting team collaboration
-- Designed secure REST APIs handling complete CRUD operations
-- Integrated Cloudinary for efficient file management and storage
-- **Key Features:** Role-based workflows, file uploads, team collaboration
-
-### 🏃‍♂️ [Activity Tracker](https://github.com/CodesBySammy/activity-tracker) *(In Development)*
-**Tech Stack:** Node.js, Express.js, MongoDB, WebSockets, JWT  
-
-- Building a fitness tracking platform with social features for workout sharing
-- Implementing real-time activity updates using WebSockets
-- Developing responsive user dashboard optimized for mobile experience
-- **Key Features:** Social fitness tracking, real-time updates, mobile-first design
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **VIT B.Tech Information Technology** - CGPA: 8.89
-- ☁️ **AWS Academy Graduate** - Cloud Foundations Certificate
-- 🏅 **AWS Certified Cloud Practitioner**
-- 👨‍💼 **Events Head** - Mozilla Firefox Club (MFC), VIT (Jan 2024 - Jan 2025)
-  - Organized technical workshops and industry collaborations
-  - Managed logistics for 200+ students
-  - Led cross-functional teams for student-led initiatives
-
-## 🎯 What I'm Looking For
-
-I'm actively seeking **Software Development Engineer** opportunities where I can:
-- Build scalable backend systems and APIs
-- Work with modern cloud technologies
-- Collaborate on challenging technical problems
-- Contribute to products that impact real users
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🤝 Let's Connect!
+## 🎪 Project Showcase Extravaganza
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameermahindru)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermahindru)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameermahindru69@gmail.com)
+### 🌟 **Featured Creations**
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+<img src="https://img.shields.io/badge/🏢%20Attendance%20Portal-Live%20Project-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
+
+**🎯 Impact:** 200+ Active Users  
+**🔧 Tech:** Node.js | Express.js | MongoDB | JWT
+
+✨ **Highlights:**
+- Secure role-based access control
+- Real-time attendance tracking
+- Automated Excel reporting
+- JWT authentication system
+
+<div align="center">
+<a href="https://github.com/CodesBySammy/attendance-portal-frontend">
+<img src="https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/CodesBySammy/attendance-portal-backend">
+<img src="https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github" />
+</a>
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+<img src="https://img.shields.io/badge/📋%20Task%20Management-Production%20Ready-orange?style=for-the-badge&logo=todoist&logoColor=white" />
+</div>
+
+**🎯 Focus:** Team Collaboration  
+**🔧 Tech:** Node.js | Express.js | MongoDB | Cloudinary
+
+✨ **Highlights:**
+- Responsive design architecture
+- Secure REST API endpoints
+- File upload integration
+- Role-based workflows
+
+<div align="center">
+<a href="https://github.com/CodesBySammy/task-management-frontend">
+<img src="https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/CodesBySammy/task-management-backend">
+<img src="https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github" />
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🏃‍♂️%20Activity%20Tracker-In%20Development-yellow?style=for-the-badge&logo=strava&logoColor=white" />
+</div>
+
+**🚀 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design
+
+<a href="https://github.com/CodesBySammy/activity-tracker">
+<img src="https://img.shields.io/badge/View%20Repository-Coming%20Soon-purple?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications Vault
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓-Academic%20Excellence-gold?style=for-the-badge" />
+<br><strong>VIT B.Tech IT</strong>
+<br>CGPA: 8.89
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" />
+<br><strong>Cloud Practitioner</strong>
+<br>Amazon Web Services
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏅-AWS%20Graduate-blue?style=for-the-badge" />
+<br><strong>Cloud Foundations</strong>
+<br>AWS Academy
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👨‍💼-Leadership-purple?style=for-the-badge" />
+<br><strong>Events Head</strong>
+<br>Mozilla Firefox Club
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 What Drives Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/💼-Career%20Goals-success?style=for-the-badge" />
+<br><br>
+🎯 **SDE Opportunities**<br>
+🏗️ **Scalable Architecture**<br>
+☁️ **Cloud Technologies**<br>
+🚀 **Innovation Projects**
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🔍-Currently%20Exploring-info?style=for-the-badge" />
+<br><br>
+📊 **System Design Patterns**<br>
+🔄 **Microservices Architecture**<br>
+🐳 **Container Technologies**<br>
+🔧 **DevOps Practices**
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🤝-Open%20For-warning?style=for-the-badge" />
+<br><br>
+💼 **Job Opportunities**<br>
+🤝 **Collaboration Projects**<br>
+📚 **Knowledge Sharing**<br>
+🎯 **Technical Discussions**
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Contribution Heatmap
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&custom_title=🔥%20Contribution%20Activity&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Let's Connect & Build Together!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sameermahindru">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sameermahindru69@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/CodesBySammy">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameermahindru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+### 💭 **Philosophy**
+
+*"Every line of code is a step towards innovation. Every bug is a lesson learned. Every project is a chance to make a difference."*
+
+<img src="https://komarev.com/ghpvc/?username=CodesBySammy&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on exciting projects!* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
