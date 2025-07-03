@@ -97,11 +97,11 @@ const sameer = {
 
 ---
 
-### 💻 Language & Contribution Stats
+### 📊 Language & Commit Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Sameer%20Mahindru's%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Sameer%20Mahindru%27s%20GitHub%20Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
