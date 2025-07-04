@@ -113,7 +113,9 @@ const sameer = {
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/SAMEERMAHINDRU/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
