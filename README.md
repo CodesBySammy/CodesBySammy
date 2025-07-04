@@ -167,7 +167,6 @@ const sameer = {
 <strong>B.Tech IT</strong><br>
 <sub>VIT Vellore</sub><br>
 <sub>CGPA: 8.89/10</sub><br>
-<sub>Top 10% of Class</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" /><br>
