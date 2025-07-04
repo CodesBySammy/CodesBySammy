@@ -108,6 +108,15 @@ const sameer = {
 
 ---
 
+---
+
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU?ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
 
 
 
