@@ -109,14 +109,15 @@ const sameer = {
 ---
 
 ---
-## 📊 LeetCode Practice Overview
+
+## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://leetcard.jacoblin.cool/CodesBySammy?ext=activity" alt="LeetCode Stats" />
 </p>
 
-
 ---
+
 
 
 
