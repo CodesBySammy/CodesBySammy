@@ -116,32 +116,29 @@ const sameer = {
 
 <div align="center">
 
-### 🏢 Attendance Management System
-[![Backend](https://img.shields.io/badge/Backend-success?style=for-the-badge&logo=node.js)](https://github.com/CodesBySammy/attendance-management-be)
-[![Frontend](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=angular)](https://github.com/CodesBySammy/attendance-management-fe)
+### 🏢 Attendance Management System  
+[![Backend](https://img.shields.io/badge/Backend-success?style=for-the-badge)](https://github.com/CodesBySammy/attendance-management-be)  
+[![Frontend](https://img.shields.io/badge/Frontend-red?style=for-the-badge)](https://github.com/CodesBySammy/attendance-management-fe)
 
-**🎯 Impact:** 200+ Active Users | **⭐ Features:** Real-time tracking, Role-based access, Automated reporting
-
+**🎯 Impact:** 200+ Active Users | **⭐ Features:** Real-time tracking, Role-based access, Automated reporting  
 *Enterprise-grade attendance system with JWT authentication, Excel export, and responsive design*
 
 ---
 
-### 📋 Task Management Platform
-[![Backend](https://img.shields.io/badge/Backend-Node.js-success?style=for-the-badge&logo=node.js)](https://github.com/CodesBySammy/task_management_be)
-[![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)](https://github.com/CodesBySammy/task_management_fe)
+### 📋 Task Management Platform  
+[![Backend](https://img.shields.io/badge/Backend-success?style=for-the-badge)](https://github.com/CodesBySammy/task_management_be)  
+[![Frontend](https://img.shields.io/badge/Frontend-blue?style=for-the-badge)](https://github.com/CodesBySammy/task_management_fe)
 
-**🎯 Impact:** Team Collaboration Tool | **⭐ Features:** File uploads, Real-time updates, Project management
-
+**🎯 Impact:** Team Collaboration Tool | **⭐ Features:** File uploads, Real-time updates, Project management  
 *Comprehensive project management solution with cloud storage integration and team collaboration*
 
 ---
 
-### 🏃‍♂️ Activity Tracker (In Development)
-[![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/CodesBySammy/Activity_Tracker)
+### 🏃‍♂️ Activity Tracker (In Development)  
+[![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/CodesBySammy/Activity_Tracker)  
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
 
-**🎯 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design
-
+**🎯 Next-Gen Features:** Real-time WebSocket updates | Social fitness tracking | Mobile-first design  
 *Modern activity tracking application with advanced WebSocket implementation and social features*
 
 </div>
