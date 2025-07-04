@@ -112,8 +112,9 @@ const sameer = {
 ## 📊 LeetCode Practice Overview
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU?ext=heatmap&border=0" alt="LeetCode Stats and Heatmap" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode" />
 </p>
+
 
 ---
 
