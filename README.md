@@ -2,7 +2,8 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Sameer Mahindru
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Specialist+%E2%9A%A1;Cloud+Architect+%E2%98%81%EF%B8%8F;System+Design+Expert+%F0%9F%8F%97%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Code+Craftsman+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Learning+System+Design+%F0%9F%8F%97%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Passionate+Coder+%F0%9F%94%A5" alt="Typing SVG" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
