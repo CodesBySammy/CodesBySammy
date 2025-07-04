@@ -169,7 +169,7 @@ const sameer = {
 <sub>CGPA: 8.89/10</sub><br>
 </td>
 <td align="center" width="25%">
-<a href="https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1JnhnXGeRCBquPXvIeuV6e114r0r5X5as/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" />
 </a>
 <br>
@@ -179,7 +179,10 @@ const sameer = {
 <sub>Cloud Architecture</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏅-AWS%20Graduate-blue?style=for-the-badge" /><br>
+<a href="https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" />
+</a>
+<br>
 <strong>Cloud Foundations</strong><br>
 <sub>AWS Academy</sub><br>
 <sub>Graduated: 2024</sub><br>
