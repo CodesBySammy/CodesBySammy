@@ -169,7 +169,10 @@ const sameer = {
 <sub>CGPA: 8.89/10</sub><br>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" /><br>
+<a href="https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/☁️-AWS%20Certified-orange?style=for-the-badge" />
+</a>
+<br>
 <strong>Cloud Practitioner</strong><br>
 <sub>Amazon Web Services</sub><br>
 <sub>Certified: 2024</sub><br>
