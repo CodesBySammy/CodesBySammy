@@ -180,7 +180,7 @@ const sameer = {
 </td>
 <td align="center" width="25%">
 <a href="https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/☁️-AWS%20Graduate-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️-AWS%20Graduate-blue?style=for-the-badge" />
 </a>
 <br>
 <strong>Cloud Foundations</strong><br>
