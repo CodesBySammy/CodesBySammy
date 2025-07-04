@@ -163,7 +163,7 @@ const sameer = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-Academic%20Excellence-gold?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/🎓-Academic%20Excellence-gold?style=for-the-badge" /><br><br>
 <strong>B.Tech IT</strong><br>
 <sub>VIT Vellore</sub><br>
 <sub>CGPA: 8.89/10</sub><br>
