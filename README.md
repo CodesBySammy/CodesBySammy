@@ -112,7 +112,7 @@ const sameer = {
 ## 📊 LeetCode Practice Overview
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodesBySammy?ext=heatmap&border=0" alt="LeetCode Stats and Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU?ext=heatmap&border=0" alt="LeetCode Stats and Heatmap" />
 </p>
 
 ---
