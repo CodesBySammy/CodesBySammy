@@ -117,8 +117,8 @@ const sameer = {
 <div align="center">
 
 ### 🏢 Attendance Management System
-[![Backend](https://img.shields.io/badge/Backend-Node.js-success?style=for-the-badge&logo=node.js)](https://github.com/CodesBySammy/attendance-management-be)
-[![Frontend](https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular)](https://github.com/CodesBySammy/attendance-management-fe)
+[![Backend](https://img.shields.io/badge/Backend-success?style=for-the-badge&logo=node.js)](https://github.com/CodesBySammy/attendance-management-be)
+[![Frontend](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=angular)](https://github.com/CodesBySammy/attendance-management-fe)
 
 **🎯 Impact:** 200+ Active Users | **⭐ Features:** Real-time tracking, Role-based access, Automated reporting
 
