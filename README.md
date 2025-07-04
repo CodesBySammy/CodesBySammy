@@ -109,11 +109,10 @@ const sameer = {
 ---
 
 ---
-
-## 📈 LeetCode Stats
+## 📊 LeetCode Practice Overview
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SAMEERMAHINDRU?ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/CodesBySammy?ext=heatmap&border=0" alt="LeetCode Stats and Heatmap" />
 </p>
 
 ---
