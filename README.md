@@ -163,10 +163,12 @@ const sameer = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-Academic%20Excellence-gold?style=for-the-badge" /><br><br>
+<img src="https://img.shields.io/badge/🎓-Academic%20Excellence-gold?style=for-the-badge" /><br>
 <strong>B.Tech IT</strong><br>
 <sub>VIT Vellore</sub><br>
 <sub>CGPA: 8.89/10</sub><br>
+<sub>Batch: 2022 – 2026</sub><br>
+<sub>
 </td>
 <td align="center" width="25%">
 <a href="https://drive.google.com/file/d/1JnhnXGeRCBquPXvIeuV6e114r0r5X5as/view?usp=sharing" target="_blank">
