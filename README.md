@@ -42,7 +42,7 @@ const sameer = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Quick Facts
 
-- 🎓 **B.Tech IT @ VIT Vellore** (CGPA: 8.89) - *Top 10% of class*
+- 🎓 **B.Tech IT @ VIT Vellore** (CGPA: 8.89)
 - 🏆 **AWS Certified Cloud Practitioner** - *2024*
 - 👨‍💼 **Ex-Events Head** at Mozilla Firefox Club
 - 🌟 **200+ Active Users** on production applications
