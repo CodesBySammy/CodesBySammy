@@ -206,7 +206,7 @@ const sameer = {
 <img src="https://img.shields.io/badge/👨‍💼-Leadership-purple?style=for-the-badge" /><br>
 <strong>Events Head</strong><br>
 <sub>Mozilla Firefox Club</sub><br>
-<sub>Tenure: 2023-2024</sub><br>
+<sub>Tenure: 2024-2025</sub><br>
 <sub>Team Management</sub>
 </td>
 </tr>
