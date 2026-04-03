@@ -24,11 +24,11 @@ I'm a final-year B.Tech IT student at VIT Vellore with a passion for building fu
 ```javascript
 const sameer = {
   pronouns: "He/Him",
-  education: "B.Tech IT @ VIT Vellore (CGPA: 8.89, 2022–2026)",
+  education: "B.Tech IT @ VIT Vellore (CGPA: 8.74, 2022–2026)",
   location: "Vellore, India",
-  languages: ["JavaScript", "Java", "Python", "C++"],
+  languages: ["JavaScript", "Java", "Python"],
   stack: {
-    frontend:  ["React", "Angular", "Bootstrap", "Tailwind CSS"],
+    frontend:  ["Angular", "Bootstrap", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js"],
     databases: ["MongoDB", "MySQL"],
     cloud:     ["AWS", "Docker", "Kubernetes"],
@@ -50,7 +50,6 @@ const sameer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -145,7 +144,7 @@ A social fitness tracking app with real-time WebSocket updates, activity logging
 | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1JnhnXGeRCBquPXvIeuV6e114r0r5X5as/view?usp=sharing) | Amazon Web Services | 2024 |
 | [AWS Academy Cloud Foundations](https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing) | AWS Academy | 2024 |
 | Events Head — Mozilla Firefox Club | VIT Vellore | 2024–2025 |
-| B.Tech IT — CGPA 8.89/10 | VIT Vellore | 2022–2026 |
+| B.Tech IT — CGPA 8.74/10 | VIT Vellore | 2022–2026 |
 
 ---
 
