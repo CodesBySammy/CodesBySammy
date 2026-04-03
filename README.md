@@ -112,15 +112,21 @@ A social fitness tracking app with real-time WebSocket updates, activity logging
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodesBySammy&theme=default&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=CodesBySammy&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodesBySammy&theme=minimal&hide_border=true&area=true)](https://github.com/CodesBySammy)
 
 </div>
 
