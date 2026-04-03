@@ -110,13 +110,6 @@ A social fitness tracking app with real-time WebSocket updates, activity logging
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodesBySammy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesBySammy&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" />
-
-</div>
 
 <div align="center">
 
