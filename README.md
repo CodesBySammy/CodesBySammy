@@ -24,7 +24,7 @@ I'm a final-year B.Tech IT student at VIT Vellore with a passion for building fu
 ```javascript
 const sameer = {
   pronouns: "He/Him",
-  education: "B.Tech IT @ VIT Vellore (CGPA: 8.74, 2022–2026)",
+  education: "B.Tech IT @ VIT Vellore (CGPA: 8.78, 2022–2026)",
   location: "Vellore, India",
   languages: ["JavaScript", "Java", "Python"],
   stack: {
@@ -143,7 +143,7 @@ A social fitness tracking app with real-time WebSocket updates, activity logging
 | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1JnhnXGeRCBquPXvIeuV6e114r0r5X5as/view?usp=sharing) | Amazon Web Services | 2024 |
 | [AWS Academy Cloud Foundations](https://drive.google.com/file/d/124TCOM26QazTKIe31ctNx7WaW_i5VFhE/view?usp=sharing) | AWS Academy | 2024 |
 | Events Head — Mozilla Firefox Club | VIT Vellore | 2024–2025 |
-| B.Tech IT — CGPA 8.74/10 | VIT Vellore | 2022–2026 |
+| B.Tech IT — CGPA 8.78/10 | VIT Vellore | 2022–2026 |
 
 ---
 
